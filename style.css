@@ -1,0 +1,150 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+body{
+  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0%;    
+}
+.something{
+    background-color: rgb(212, 140, 6);
+}
+.something ul {
+    list-style-type: circle;
+    text-align: right; 
+}
+.something li{
+      
+    display: inline-block; 
+    margin-right: 30px;
+    margin-top: 10px;
+    font-size: 25px;;
+}
+#Home{
+    
+    text-align: center;
+}
+
+.ssmb{
+    align-items: center;}
+    .right{float: right;}
+    .logo{float: left;}
+.ssmb img {
+    width: 290px;
+    display: inline-block;
+    border: 5px double rgb(10, 231, 39) ;
+    text-align: right;
+    border-radius: 1090px;
+   display: flex;
+    flex-direction: row;
+
+}
+
+h2{
+    background-color: rgb(133, 9, 40);
+    font-size: 35px;
+}
+.paragraph{
+    text-align: center;
+    padding: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size:40px ;
+    font-style: italic;
+    color: rgb(52, 107, 107);
+   
+}
+.Family{
+    text-align: center;
+    padding: 35px;
+    margin-right: 220px;
+    margin-left: 220px;
+    font-size: 35px;
+    font-style: italic;
+    color: rgb(160, 126, 25);
+}
+.Educational{
+    color: rgb(162, 100, 25);
+    background-color: rgb(79, 39, 116);
+    text-align: center;
+    font-size: 40px;
+
+}
+.Proficiency{
+    color: rgb(236, 55, 55);
+    background-color: rgb(64, 7, 7);
+    text-align: center;
+    font-size: 35px;
+
+}
+.Background{
+    text-align: center;
+    color: rgb(5, 5, 246);
+    background-color: rgb(178, 183, 116);
+}
+.Fam{
+    text-align: center;
+    color: rgb(164, 172, 13);
+    
+}
+.k{
+    color: rgb(120, 9, 22);
+
+}
+.a{
+    color: rgb(23, 23, 201);
+}
+.b{
+    color: rgb(230, 200, 9);
+}
+
+
+#PROFICIENCY li {
+    font-size: 25px;
+    padding-top: 25px;
+    color: rgb(165, 193, 45);
+    list-style-position: inside;
+    
+
+}
+#PROFICIENCY ol li {
+    list-style: circle;
+
+}
+
+.heading{
+     text-align: center;
+     font-size: 40px;
+     color: rgb(45, 213, 23);
+     background-color: brown;
+     border-width: 50px;
+}
+.con{
+    font-size: 35px;
+    color: rgba(243, 5, 5, 0.81);
+    background-color: rgb(21, 209, 43);
+
+}
+.contact ol{
+    list-style-type: none;
+    text-align: left;
+}
+.contact li{
+    display: flex;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.MB{
+ align-items: center;
+}
+.MB img{
+    width: 400px;
+    display: inline-block;
+    border: 6px double rgb(28, 114, 28);
+    text-align: center;
+    border-radius: 15%;
+    margin-right: 120px;
+    margin: 120px;
+}
